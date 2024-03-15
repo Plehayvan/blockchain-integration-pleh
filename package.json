@@ -1,6 +1,6 @@
 {
   "name": "blockchain-integration-pleh",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A basic Blockchain Integration package using web3",
   "main": "./src/index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "author": "plehayvan",
   "license": "MIT",
   "dependencies": {
-    "color-palette-generator-1": "^1.0.1"
+    "color-palette-generator-1": "^1.0.1",
+    "random-data-generator-qwynbleid": "^1.0.1"
   }
 }
